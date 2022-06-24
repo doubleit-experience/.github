@@ -1,6 +1,6 @@
 🙋‍ Boas vindas!
 
-Um universo para aprender, praticar, trabalhar e rentabilizar.    
+🚀 Um universo para aprender, praticar, trabalhar e rentabilizar.    
 
 Somos uma empresa que preza pela excelência em nossos projetos, firmando o compromisso de ser relevante para o mundo, deixando nosso legado através de pequenas ou grandes ações. Nossa missão é promover a tecnologia e impactar pessoas.  
 
@@ -12,6 +12,14 @@ Acreditamos em uma transformação digital, um novo universo tech. Sonhamos com 
 Prepare-se e faça parte desse mundo.
 
 #### Viva essa experiência tech!
+
+---
+
+Quer ficar por dentro das iniciativas de educação e treinamentos da DoubleIT? Nos acompanhe nas redes sociais!
+
+[Linkedin](https://br.linkedin.com/company/doubleit) |
+[Instagram](https://www.instagram.com/doubleitconsultoria/?hl=en) |
+[Site](https://www.doubleit.com.br/)
 
 <!--
 
